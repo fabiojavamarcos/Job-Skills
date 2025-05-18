@@ -1,0 +1,22 @@
+Problem Solvers are expected to not only apply technical
+knowledge but also demonstrate adaptability and analytical
+thinking when tackling problems. Managers emphasized that
+candidates must show a “problem solving mentality” (P1), an
+ability to “solve problems with a team”, “know how to solve
+problems with code.” Several managers described problem
+solving as both a mindset and a structured process. P7 valued
+candidates who could “break down a problem in a micro
+algorithmic way”, “partitioning complex problems into small
+problems.” P10 similarly explained that good problem solvers
+“break it down in your own brain and then apply some computer
+science concept to be able to solve it.” In practical team settings,
+P7 noted that early-career developers are often “trying to solve
+a real life problem for a particular business,” where context and
+collaboration matter. P5 stressed the importance of process,
+asking candidates “how do [they] approach a problem for
+which there is no solution” and whether they can “convey a
+technical problem in a way that somebody can engage and work
+with [them].” Resilience and flexibility also matter. P9 pointed
+out that candidates should know how to handle “unexpected
+problems, whether a bug in their code or there was a global
+pandemic.”
