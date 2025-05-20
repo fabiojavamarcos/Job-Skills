@@ -33,4 +33,4 @@ Experience or understanding of software quality assurance tools and processes.
 Understanding of basic testing, coding, and debugging procedures.
 Good analytical and problem solving skills.
 Basic understanding of design for software and firmware running on multiple platform types
-Good written and verbal communication skills; mastery in English and local language.HR.HPE.COM
+Good written and verbal communication skills; mastery in English and local language.
