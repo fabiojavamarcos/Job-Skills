@@ -1,0 +1,21 @@
+0T3911 - Cloud Developer I  (TCP_01)
+ 
+Job Family:  Engineering - Cloud Engineering
+ 
+Job Family Definition:
+The Cloud Developer builds from the ground up to meet the needs of mission-critical applications,
+and is always looking for innovative approaches to deliver end-to-end technical solutions to solve
+customer problems.
+Brings technical thinking to break down complex data and to engineer new ideas and methods for
+solving, prototyping, designing, and implementing cloud-based solutions.
+Collaborates with project managers and development partners to ensure effective and efficient
+delivery, deployment, operation, monitoring, and support of Cloud engagements.
+The Cloud Developer provides business value expertise to drive the development of innovative
+service offerings that enrich HPE's Cloud Services portfolio across multiple systems, platforms, and
+applications.
+Management Level Definition:
+Contributes to assignments of limited scope by applying technical concepts and theoretical
+knowledge acquired through specialized training, education, or previous experience. Acts as team
+member by providing information, analysis and recommendations in support of team efforts.
+Exercises independent judgment within defined parameters.
+HR.HPE.COM
