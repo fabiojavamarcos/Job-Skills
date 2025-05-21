@@ -1,0 +1,11 @@
+Operational Systems: 
+Familiarity with Linux, command-line
+tools, and OS-level tasks such as termi-
+nal navigation and shell scripting. Also
+includes being truthful about stated OS
+competencies.
+P9: “they don’t have kind of basic Linux skills anymore and that becomes a little bit problematic”;
+P9: “the method of interaction is through a terminal. . . it is integral to everything we do”; P3:
+“If you say like I’m a Linux bash guy and I start asking you bash questions and you don’t know
+anything about bash, then you probably shouldn’t have put it on your resume.”; P8: “They don’t
+do well at an operating systems”
