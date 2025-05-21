@@ -1,0 +1,9 @@
+DevOps: Understanding of infrastructure-as-code
+tools, continuous integration/continuous
+deployment (CI/CD), and the cultural
+and technical practices needed to sup-
+port cloud infrastructure operations.
+P10: “[recent graduates] don’t teach DevOps concepts at school”; P10: “modernize some of
+their computer science curriculum... like cloud infrastructure classes”; P6: “I would go to the
+AWS documentation. I would check out this. . . I know this community. . . I could go and find a
+sample project. . . ”
