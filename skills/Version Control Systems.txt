@@ -1,0 +1,10 @@
+Version Control Systems: 
+Knowledge of Git and version control
+practices for managing code collabo-
+ratively, including branching, auditing,
+and maintaining a single source of truth.
+P12: “version control management practices on source social curation. . . the craft of software
+engineering that’s not really related to the algorithms. . . but how you get around in the actual
+enterprise”; P6: “They’re learning git, right? So they understand. You know what git is? And
+you know how we use it for, you know, account auditing and. . . single source of knowledge for
+our code. . . ”
