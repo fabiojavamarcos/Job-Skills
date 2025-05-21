@@ -1,0 +1,34 @@
+0T1021 - Systems/Software Engineer I  (TCP_01)
+ 
+Job Family:  Engineering - SW Engineering (Systems)
+ 
+Job Family Definition:
+Designs, develops, troubleshoots and debugs software programs for software enhancements and
+new products. Develops software including operating systems, compilers, routers, networks,
+utilities, databases and Internet-related tools. Determines hardware compatibility and/or influences
+hardware design.
+Management Level Definition:
+Contributes to assignments of limited scope by applying technical concepts and theoretical
+knowledge acquired through specialized training, education, or previous experience. Acts as team
+member by providing information, analysis and recommendations in support of team efforts.
+Exercises independent judgment within defined parameters.
+Responsibilities:
+Codes and programs enhancements, updates, and changes for portions and subsystems of
+systems software, including operating systems, compliers, networking, utilities, databases, and
+Internet-related tools
+Executes established test plans and protocols for assigned portions of code; identifies, logs,
+and debugs assigned issues.
+Develops understanding of and relationship with internal and outsourced development
+partners on software systems design and development.
+Participates as a member of project team of other software systems engineers and internal and
+outsourced development partners to develop reliable, cost effective and high quality solutions
+for low to moderately- complex products.
+Education and Experience Required:
+Bachelor's or Master's degree in Computer Science, Information Systems, or equivalent
+Typically 0-2 years experience
+Knowledge and Skills:
+Experience or understanding of software systems design tools and languages.
+Good analytical and problem solving skills.
+Understanding of design for software systems running on multiple platform types
+Understanding of basic testing, coding, and debugging procedures
+Good written and verbal communication skills; mastery in English and local language.

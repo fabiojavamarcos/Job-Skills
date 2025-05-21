@@ -1,0 +1,22 @@
+0T3811 - AI and Machine Learning Engineer I  (TCP_01)
+ 
+Job Family:  Engineering - AI and Machine Learning Engineering
+ 
+Job Family Definition:
+Develops and programs integrated software algorithms to structure, analyze and leverage structured
+and unstructured data in product and systems applications. Can work with large scale computing
+frameworks, data analysis systems, and modeling environments.
+Uses machine learning and statistical modeling techniques to improve product/system performance,
+data management, quality, and accuracy. Formulates descriptive, diagnostic, predictive and
+prescriptive insights/algorithms and translates technical specifications into code. Applies, optimizes
+and scales deep learning technologies and algorithms to give computers the capability to visualize,
+learn and respond to complex situations. Documents procedures for installation and maintenance,
+completes programming, performs testing and debugging, defines and monitors performance
+metrics.
+Contributes to the success of HPE by translating customer requirements and industry trends into
+AI/ML products, solutions, and systems improvement projects.
+Management Level Definition:
+Contributes to assignments of limited scope by applying technical concepts and theoretical
+knowledge acquired through specialized training, education, or previous experience. Acts as team
+member by providing information, analysis and recommendations in support of team efforts.
+Exercises independent judgment within defined parameters.

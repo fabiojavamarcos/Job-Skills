@@ -1,0 +1,36 @@
+0T1301 - Software Designer I  (TCP_01)
+ 
+Job Family:  Engineering - SW Engr (Applications)
+ 
+Job Family Definition:
+Analyzes, designs, programs, debugs, and modifies software enhancements and/or new products
+used in local, networked, or Internet- related computer programs, primarily for end users. Using
+current programming language and technologies, writes code, completes programming, and
+performs testing and debugging of applications. Completes documentation and procedures for
+installation and maintenance. May interact with users to define system requirements and/or
+necessary modifications.
+Management Level Definition:
+Contributes to assignments of limited scope by applying technical concepts and theoretical
+knowledge acquired through specialized training, education, or previous experience. Acts as team
+member by providing information, analysis and recommendations in support of team efforts.
+Exercises independent judgment within defined parameters.
+Responsibilities:
+Codes and programs enhancements, updates, and changes for portions and subsystems of end-
+user applications software running on local, networked, and Internet- based platforms based
+on specific requirements and instructions.
+Executes established test plans and protocols for assigned portions of code; identifies, logs,
+and debugs assigned issues.
+Develops understanding of and relationship with internal and outsourced development
+partners on software applications design and development.
+Participates as a member of project team of other software applications engineers and internal
+and outsourced development partners to develop reliable, cost effective and high quality
+solutions for low to moderately- complex products.
+Education and Experience Required:
+Bachelor's or Master's degree in Computer Science, Information Systems, or equivalent.
+Typically 0-2 years experience.
+Knowledge and Skills:
+Experience or understanding of software applications design tools and languages.
+Good analytical and problem solving skills.
+Understanding of design for software applications running on multiple platform types.
+Understanding of basic testing, coding, and debugging procedures.
+Good written and verbal communication skills; mastery in English and local language.
