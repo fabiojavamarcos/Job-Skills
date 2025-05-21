@@ -1,0 +1,9 @@
+Open Source Software: 
+Hands-on participation in community-
+led software projects, contributing code
+and engaging in collaborative develop-
+ment processes.
+P12: “Anybody could go to a [CNCF] architecture meeting and go pick some Kube[rnates] bugs
+and you’ll get the whole experience then, right... what it takes to actually get a patch into a real
+software project — that’s significant.”; P1: “have some experience with go and Terraform doing
+things in Kubernetes and AWS”
