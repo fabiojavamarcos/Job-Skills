@@ -1,0 +1,34 @@
+0T1341 - SW Engineer Firmware I  (TCP_01)
+ 
+Job Family:  Engineering - SW Engineering (Firmware)
+ 
+Job Family Definition:
+Analyzes, designs, programs, debugs and modifies firmware (e.g., DSP, embedded code, BIOS).
+Work often involves analog and digital hardware and real-time operating systems. Position requires
+knowledge and exposure to hardware design. Typically programs in machine language, assembly
+language and high-level languages (e.g., C, C++).
+Management Level Definition:
+Contributes to assignments of limited scope by applying technical concepts and theoretical
+knowledge acquired through specialized training, education, or previous experience. Acts as team
+member by providing information, analysis and recommendations in support of team efforts.
+Exercises independent judgment within defined parameters.
+Responsibilities:
+Codes and programs enhancements, updates, and changes for portions and subsystems of
+firmware, including DSP, embedded code, EFI drivers, EFI applications and BIOS/UEFI.
+Executes established test plans and protocols for assigned portions of code; identifies, logs,
+and debugs assigned issues.
+Develops understanding of and relationship with internal and outsourced development
+partners on firmware design and development.
+Participates as a member of project team of other firmware engineers and internal and
+outsourced development partners to develop reliable, cost effective and high quality solutions
+for low to moderately-complex products.
+Education and Experience Required:
+Bachelor's or Master's degree in Computer Science, Information Systems, Electrical
+Engineering, or equivalent.
+Typically 0-2 years experience.
+Knowledge and Skills:
+Experience or understanding of firmware design tools and languages.
+Good analytical and problem solving skills.
+Understanding of firmware and hardware design principles.
+Understanding of basic testing, coding, and debugging procedures.
+Good written and verbal communication skills; mastery in English and local language.

@@ -1,0 +1,37 @@
+0T1041 - Test Engineer I  (TCP_01)
+ 
+Job Family:  Engineering - Test Engineering
+ 
+Job Family Definition:
+Responsible for planning and arranging the labor, schedules, equipment and diagnostics required
+for testing and evaluating both standard and special devices. Specifies tests to be performed and
+provides test area with parameters for sample testing. Compiles data and defines changes required
+in testing equipment and diagnostics, testing procedures, manufacturing processes, or new testing
+requirements. Responsible for designing, developing and implementing cost-effective methods of
+testing and troubleshooting systems and equipment.
+Management Level Definition:
+Contributes to assignments of limited scope by applying technical concepts and theoretical
+knowledge acquired through specialized training, education, or previous experience. Acts as team
+member by providing information, analysis and recommendations in support of team efforts.
+Exercises independent judgment within defined parameters.
+Responsibilities:
+Designs portions of engineering solutions to test and evaluate systems, equipment, and
+devices based on established engineering principles and in accordance with provided
+specifications and requirements.
+Implements and executes established test plans, schedules, and requirements for subsystems
+of existing designs; builds testing tooling, fixtures, and apparatuses based on provided
+specifications.
+Develops understanding of and relationship with internal and outsourced partners for testing
+and development.
+Participates as a member of project team of other test engineers and internal and outsourced
+testing partners to develop and execute reliable, cost effective and high quality test solutions
+for low to moderately-complex products.
+Education and Experience Required:
+Bachelor's or Master's degree in Computer Science, Information Systems, Electrical
+Engineering, or equivalent.
+Typically 0-2 years experience.
+Knowledge and Skills:
+Experience or understanding of testing tools and software packages.
+Good analytical and problem solving skills.
+Basic understanding of material properties and hardware and electrical component design
+Good written and verbal communication skills; mastery in English and local language.

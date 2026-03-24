@@ -1,0 +1,22 @@
+Process-Oriented Mindset is important, particularly in
+environments where technical contributions must integrate
+seamlessly into larger systems. P6 described this as essential
+“process thinking” and emphasized that many technically
+capable individuals “can go down a rabbit hole with that skill,”
+losing sight of the broader impact. Instead, managers expect
+candidates to demonstrate “systems thinking. . . seeing how does
+this actually flow through, how does this affect everything else
+around it, what is the wider scope beyond just this one piece.”
+This holistic mindset is crucial not just for writing effective code
+but for designing sustainable workflows. As P6 pointed out,
+the industry buzz around automation often oversimplifies the
+real challenge: “writing a script to do the thing we were doing
+manually. . . is not really helping anyone” if it ignores long-
+term maintainability. Software Engineering candidates need the
+ability to “come at it with a fresh mind on how I can change the
+process to make it smoother,” combining critical thinking with
+technical efficiency. P12 reinforced this for software engineers
+from a release management perspective, noting the industry
+expectation for candidates to be “intentional with releases,”
+including an understanding of “versioning, semantic versioning,
+bundling.”

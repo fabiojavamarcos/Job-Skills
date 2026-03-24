@@ -1,0 +1,7 @@
+Cloud Computing: Ability to design, deploy, and under-
+stand systems on cloud platforms such
+as AWS, GCP, or Azure, including
+knowledge of cloud-first architectures
+and service models.
+P1: “cloud first methodology”; P1: “how to design a service that runs in the cloud”; P1: “have
+some experience with go and Terraform doing things in Kubernetes and AWS”

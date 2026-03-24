@@ -1,0 +1,36 @@
+0T1351 - SW Engineer Quality Assurance I  (TCP_01)
+ 
+Job Family:  Engineering - SW Engineering (Quality Assurance)
+ 
+Job Family Definition:
+Set and maintain quality standards for company products through the use of systematic processes.
+Develops, modifies, and executes software test strategies, plans and suites. Analyzes and writes test
+standards and procedures. Maintains documentation of test results to assist in debugging and
+modification of software. Analyzes test results to ensure existing functionality and recommends
+corrective action. May develop tools and environments to automate test execution. Consults with
+development engineers in resolution of problems.
+Management Level Definition:
+Contributes to assignments of limited scope by applying technical concepts and theoretical
+knowledge acquired through specialized training, education, or previous experience. Acts as team
+member by providing information, analysis and recommendations in support of team efforts.
+Exercises independent judgment within defined parameters.
+Responsibilities:
+Executes established test plans and protocols for assigned portions of code for end-user
+applications, systems software, and firmware running on hardware, local, networked, and
+Internet- based platforms; identifies, logs, and debugs assigned issues.
+Codes and programs test scripts, automation, and integration activities based on specific test
+requirements.
+Develops understanding of and relationship with internal and outsourced development
+partners on software applications design and development.
+Participates as a member of project team of other software quality assurance engineers and
+internal and outsourced quality assurance partners to develop reliable, cost effective and high
+quality solutions for low to moderately-complex products.
+Education and Experience Required:
+Bachelor's or Master's degree in Computer Science, Information Systems, or equivalent.
+Typically 0-2 years experience.
+Knowledge and Skills:
+Experience or understanding of software quality assurance tools and processes.
+Understanding of basic testing, coding, and debugging procedures.
+Good analytical and problem solving skills.
+Basic understanding of design for software and firmware running on multiple platform types
+Good written and verbal communication skills; mastery in English and local language.
